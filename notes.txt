@@ -1,0 +1,13 @@
+<form> Creates a form section in HTML
+
+<input>-input boxes
+
+<label>- labels for boxes
+
+<button> button
+
+<textarea> Large text box
+
+
+
+css comment /* notes */
